@@ -30,15 +30,6 @@ This is a simple Employee Management System implemented in C, allowing users to 
 
 3. After performing the desired operation, the program will save the updated employee data to the `employee_data.txt` file before exiting.
 
-## Compilation and Execution
-
-Compile the program using `gcc` or any C compiler:
-
-```bash
-gcc -o employee_manager employee_manager.c
-Run the compiled executable:
-
-
 ## Note
 
 This program is a basic implementation and does not include user authentication or data encryption. It is recommended to add further security features and error handling based on specific requirements.
@@ -49,6 +40,12 @@ Feel free to explore and enhance the Employee Management System by adding more f
 
 - [Haris Malik](https://www.malikharis.in/) - Developer.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and commercial purposes. However, remember to include the original license information in any distributions.
+
+## Compilation and Execution
+
+Compile the program using `gcc` or any C compiler:
+
+```bash
+gcc -o employee_manager employee_manager.c
+Run the compiled executable:
