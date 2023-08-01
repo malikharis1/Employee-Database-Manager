@@ -167,7 +167,6 @@ void searchUser()
             printf("\nEmploy ID: %d", user[i].id);
             printf("\nEmploy Password: %s", user[i].password);
             found = 1;
-            break;
         }
     }
 
