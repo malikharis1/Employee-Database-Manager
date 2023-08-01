@@ -34,6 +34,8 @@ This is a simple Employee Management System implemented in C, allowing users to 
 
 Compile the program using `gcc` or any C compiler:
 
+```bash
+gcc -o employee_manager employee_manager.c
 Run the compiled executable:
 
 
